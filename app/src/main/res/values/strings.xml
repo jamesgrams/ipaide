@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IPAide</string>
+    <string name="find_button_label">Find</string>
+    <string name="compare_button_label">Compare</string>
+    <string name="find_description_label">Choose the features to filter your search, and then press Find.</string>
+    <string name="find_go_button_label">Go</string>
+    <string name="find_plus_button_label">+</string>
+    <string name="refresh_button_label">↺</string>
+    <string name="home_button_label">Home</string>
+    <string name="back_button_label">←</string>
+    <string name="find_results_new_button_label">New</string>
+    <string name="compare_description_label">Choose IPA symbols to find the features that they have in common.</string>
+    <string name="include_null_description_label">Should null features be included on a symbol\'s list of features?</string>
+    <string name="include_null_switch_label">Include null?</string>
+    <string name="settings_button_label">Settings</string>
+    <string name="contrast_button_label">Contrast</string>
+    <string name="credits_label">IPAide was made by James Grams and Kasey Mann. For more of their content, visit game103.net.</string>
+</resources>
